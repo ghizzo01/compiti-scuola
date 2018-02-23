@@ -3,6 +3,19 @@
         {
             "compiti": [
                 {
+                    "compito": "scheda di es sui depositi e conti correnti",
+                    "materia": "ECONOMIA AZIENDALE"
+                },
+                {
+                    "compito": "Es.pag.614 n. 204; pag. 618 n. 239",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2018-02-23"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Ricercare e trascrivere sul quaderno chi dal 1946 ad oggi ha rivestito la carica di Presidente della Repubblica ed il periodo in cui \u00e8 rimasto in carica.",
                     "materia": "DIRITTO ED ECONOMIA"
                 }
@@ -321,7 +334,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
+                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -1347,5 +1360,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "23/02/2018 06:00:05"
+    "ultimo_aggiornamento": "23/02/2018 13:00:05"
 }
