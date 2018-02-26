@@ -12,6 +12,15 @@
         {
             "compiti": [
                 {
+                    "compito": "esercizi pag. 14 TUTTI (Assegnati per il 05/03/2018)",
+                    "materia": "LINGUA E LETTERATURA ITALIANA"
+                }
+            ],
+            "giorno": "2018-02-26"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Studiare da pag. 158 a pag. 164. Es. pag. 185 n. 25-27-28-29-40; es. pag. 184 n. 18-19",
                     "materia": "MATEMATICA"
                 }
@@ -352,7 +361,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
+                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -1378,5 +1387,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "26/02/2018 06:00:08"
+    "ultimo_aggiornamento": "26/02/2018 13:00:05"
 }
