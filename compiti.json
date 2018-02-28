@@ -5,6 +5,14 @@
                 {
                     "compito": "Parte fisica degli Stati Uniti sulla scheda: rispondere alle domande / esercizi da 5 a 13 compreso",
                     "materia": "GEOGRAFIA"
+                },
+                {
+                    "compito": "Haedway workbook unit 8 ex 1 to 5. Bring your grammar book.",
+                    "materia": "LINGUA  INGLESE"
+                },
+                {
+                    "compito": "Studiare da pag. 166 a pag. 170. Es. 189 n. 88-90-98; pag. 185 n. 36; pag. 190 n. 109-120",
+                    "materia": "MATEMATICA"
                 }
             ],
             "giorno": "2018-02-28"
@@ -361,7 +369,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
+                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -1387,5 +1395,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "28/02/2018 06:00:05"
+    "ultimo_aggiornamento": "28/02/2018 13:00:04"
 }
