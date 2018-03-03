@@ -3,6 +3,15 @@
         {
             "compiti": [
                 {
+                    "compito": "Svolgere tutte le domande di comprensione sulla storia degli Stati Uniti d'America. Interrogazioni sugli Stati Uniti d'America",
+                    "materia": "GEOGRAFIA"
+                }
+            ],
+            "giorno": "2018-03-06"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Parte fisica degli Stati Uniti sulla scheda: rispondere alle domande / esercizi da 5 a 13 compreso",
                     "materia": "GEOGRAFIA"
                 },
@@ -663,7 +672,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Studiare  da pag. 77 a 82. Es. pag. 91 n. 97-99-101-103-112 + es. dettato sulle disequazioni.",
+                    "compito": "Argomenti verifica 1/12: disequazioni e sistemi di disequazioni; radicali ( da pag. 62 a 82); definizioni , condizioni di esistenza, propriet\u00e0 , semplificazioni, riduzione allo stesso indice, confronto tra radicali ed espressioni con radicali simili.",
                     "materia": "MATEMATICA"
                 }
             ],
@@ -1307,7 +1316,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Assegnato completamento dell'esercizio di localizzazione (sulla scheda gi\u00e0 distribuita). Ripasso in vista di possibili interrogazioni.",
+                    "compito": "Assegnato lavoro di ricerca sulla cartografia disponibile di alcuni elementi geografici (scheda distribuita); richiesta di indicare in forma scritta elementi utili (collocazione in prossimit\u00e0 di confini di stati o regioni amministrative) utili alla localizzazione. Fissate interrogazioni in forma orale fino a pagina 15 del libro di testo (Alpi escluse), argomenti svolti sul libro ed eventuali appunti / integrazioni, con correzione degli esercizi.",
                     "materia": "GEOGRAFIA"
                 },
                 {
@@ -1395,5 +1404,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "03/03/2018 13:00:05"
+    "ultimo_aggiornamento": "03/03/2018 15:00:09"
 }
