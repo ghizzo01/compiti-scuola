@@ -12,6 +12,15 @@
         {
             "compiti": [
                 {
+                    "compito": "Es.pag. 608 n. 147; pag. 611 n. 173; pag.602 n. 87( Cramer); pag. 604 n. 105; pag. 615 n. 209.",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2018-03-03"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Parte fisica degli Stati Uniti sulla scheda: rispondere alle domande / esercizi da 5 a 13 compreso",
                     "materia": "GEOGRAFIA"
                 },
@@ -378,7 +387,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
+                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -672,7 +681,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Argomenti verifica 1/12: disequazioni e sistemi di disequazioni; radicali ( da pag. 62 a 82); definizioni , condizioni di esistenza, propriet\u00e0 , semplificazioni, riduzione allo stesso indice, confronto tra radicali ed espressioni con radicali simili.",
+                    "compito": "Studiare  da pag. 77 a 82. Es. pag. 91 n. 97-99-101-103-112 + es. dettato sulle disequazioni.",
                     "materia": "MATEMATICA"
                 }
             ],
@@ -1404,5 +1413,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "03/03/2018 15:00:09"
+    "ultimo_aggiornamento": "03/03/2018 18:00:10"
 }
