@@ -12,6 +12,15 @@
         {
             "compiti": [
                 {
+                    "compito": "Per casa svolgere TUTTI  gli esercizi di pag. 15/16 (Assegnati per il 12/03/2018)",
+                    "materia": "LINGUA E LETTERATURA ITALIANA"
+                }
+            ],
+            "giorno": "2018-03-05"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Es.pag. 608 n. 147; pag. 611 n. 173; pag.602 n. 87( Cramer); pag. 604 n. 105; pag. 615 n. 209.",
                     "materia": "MATEMATICA"
                 }
@@ -387,7 +396,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
+                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -681,7 +690,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Studiare  da pag. 77 a 82. Es. pag. 91 n. 97-99-101-103-112 + es. dettato sulle disequazioni.",
+                    "compito": "Argomenti verifica 1/12: disequazioni e sistemi di disequazioni; radicali ( da pag. 62 a 82); definizioni , condizioni di esistenza, propriet\u00e0 , semplificazioni, riduzione allo stesso indice, confronto tra radicali ed espressioni con radicali simili.",
                     "materia": "MATEMATICA"
                 }
             ],
@@ -1413,5 +1422,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "05/03/2018 06:00:05"
+    "ultimo_aggiornamento": "05/03/2018 13:00:10"
 }
