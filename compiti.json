@@ -5,6 +5,10 @@
                 {
                     "compito": "Svolgere tutte le domande di comprensione sulla storia degli Stati Uniti d'America. Interrogazioni sugli Stati Uniti d'America",
                     "materia": "GEOGRAFIA"
+                },
+                {
+                    "compito": "terminare la tabella degli imperatori fino a pag. 110 (Assegnati per il 13/03/2018)",
+                    "materia": "STORIA"
                 }
             ],
             "giorno": "2018-03-06"
@@ -396,7 +400,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
+                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -1334,7 +1338,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Assegnato lavoro di ricerca sulla cartografia disponibile di alcuni elementi geografici (scheda distribuita); richiesta di indicare in forma scritta elementi utili (collocazione in prossimit\u00e0 di confini di stati o regioni amministrative) utili alla localizzazione. Fissate interrogazioni in forma orale fino a pagina 15 del libro di testo (Alpi escluse), argomenti svolti sul libro ed eventuali appunti / integrazioni, con correzione degli esercizi.",
+                    "compito": "Assegnato completamento dell'esercizio di localizzazione (sulla scheda gi\u00e0 distribuita). Ripasso in vista di possibili interrogazioni.",
                     "materia": "GEOGRAFIA"
                 },
                 {
@@ -1422,5 +1426,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "06/03/2018 06:00:04"
+    "ultimo_aggiornamento": "06/03/2018 13:00:09"
 }
