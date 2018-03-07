@@ -3,6 +3,15 @@
         {
             "compiti": [
                 {
+                    "compito": "Studiare da pagina 104 a 106.\nFare esercizi dal n 20 al 25 di pag 107 , sul proprio quaderno\nCompletare mappa  - MUTAZIONE - pag 109",
+                    "materia": "SCIENZE INTEGRATE - SC. DELLA TERRA E BIOLOGIA"
+                }
+            ],
+            "giorno": "2018-03-07"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Svolgere tutte le domande di comprensione sulla storia degli Stati Uniti d'America. Interrogazioni sugli Stati Uniti d'America",
                     "materia": "GEOGRAFIA"
                 },
@@ -1426,5 +1435,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "07/03/2018 06:00:05"
+    "ultimo_aggiornamento": "07/03/2018 13:00:04"
 }
