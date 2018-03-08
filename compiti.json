@@ -12,6 +12,10 @@
         {
             "compiti": [
                 {
+                    "compito": "Ripasso della risoluzione delle equazioni",
+                    "materia": "MATEMATICA"
+                },
+                {
                     "compito": "Studiare da pagina 104 a 106.\nFare esercizi dal n 20 al 25 di pag 107 , sul proprio quaderno\nCompletare mappa  - MUTAZIONE - pag 109",
                     "materia": "SCIENZE INTEGRATE - SC. DELLA TERRA E BIOLOGIA"
                 }
@@ -418,7 +422,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
+                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -1444,5 +1448,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "08/03/2018 13:00:08"
+    "ultimo_aggiornamento": "08/03/2018 15:00:09"
 }
