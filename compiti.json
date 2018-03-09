@@ -3,6 +3,19 @@
         {
             "compiti": [
                 {
+                    "compito": "Unit 8 WB ex 213/214 all ex, reading included.\nLearn dialogues in ex 1 p. 65 by heart for next friday.",
+                    "materia": "LINGUA  INGLESE"
+                },
+                {
+                    "compito": "Es. pag. 189 n. 89-91-99; pag. 190 n. 112; pag.185 n. 32-33",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2018-03-09"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Trova e trascrivi sul quaderno i provvedimenti di grazia concessi dai PDR.",
                     "materia": "DIRITTO ED ECONOMIA"
                 }
@@ -11,6 +24,10 @@
         },
         {
             "compiti": [
+                {
+                    "compito": "For next Wednesday: Create a crossword from wordlist U9.",
+                    "materia": "LINGUA  INGLESE"
+                },
                 {
                     "compito": "Ripasso della risoluzione delle equazioni",
                     "materia": "MATEMATICA"
@@ -422,7 +439,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
+                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -1360,7 +1377,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Assegnato lavoro di ricerca sulla cartografia disponibile di alcuni elementi geografici (scheda distribuita); richiesta di indicare in forma scritta elementi utili (collocazione in prossimit\u00e0 di confini di stati o regioni amministrative) utili alla localizzazione. Fissate interrogazioni in forma orale fino a pagina 15 del libro di testo (Alpi escluse), argomenti svolti sul libro ed eventuali appunti / integrazioni, con correzione degli esercizi.",
+                    "compito": "Assegnato completamento dell'esercizio di localizzazione (sulla scheda gi\u00e0 distribuita). Ripasso in vista di possibili interrogazioni.",
                     "materia": "GEOGRAFIA"
                 },
                 {
@@ -1448,5 +1465,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "09/03/2018 06:00:08"
+    "ultimo_aggiornamento": "09/03/2018 13:00:09"
 }
