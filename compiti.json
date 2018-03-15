@@ -3,6 +3,15 @@
         {
             "compiti": [
                 {
+                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
+                    "materia": "DIRITTO ED ECONOMIA"
+                }
+            ],
+            "giorno": "2018-03-15"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Studiare  pagg. 175-176. Es. pag. 206 n. 320-323; pag. 196 n. 182-183; pag. 197 n. 197-199; pag. 198 n. 221-222.",
                     "materia": "MATEMATICA"
                 }
@@ -474,7 +483,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
+                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -1500,5 +1509,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "15/03/2018 06:00:04"
+    "ultimo_aggiornamento": "15/03/2018 13:00:04"
 }
