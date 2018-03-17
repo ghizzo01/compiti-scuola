@@ -3,6 +3,15 @@
         {
             "compiti": [
                 {
+                    "compito": "ES. pag.186 n. 47; pag. 185 n. 30-39;pag. 190n. 123-116; pag. 197 n. 221; pag.201 n. 253-250.",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2018-03-17"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "es 1,2 e 1,5 su assegni bancari",
                     "materia": "ECONOMIA AZIENDALE"
                 },
@@ -20,7 +29,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
+                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -1442,7 +1451,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Assegnato completamento dell'esercizio di localizzazione (sulla scheda gi\u00e0 distribuita). Ripasso in vista di possibili interrogazioni.",
+                    "compito": "Assegnato lavoro di ricerca sulla cartografia disponibile di alcuni elementi geografici (scheda distribuita); richiesta di indicare in forma scritta elementi utili (collocazione in prossimit\u00e0 di confini di stati o regioni amministrative) utili alla localizzazione. Fissate interrogazioni in forma orale fino a pagina 15 del libro di testo (Alpi escluse), argomenti svolti sul libro ed eventuali appunti / integrazioni, con correzione degli esercizi.",
                     "materia": "GEOGRAFIA"
                 },
                 {
@@ -1530,5 +1539,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "17/03/2018 06:00:10"
+    "ultimo_aggiornamento": "17/03/2018 13:00:06"
 }
