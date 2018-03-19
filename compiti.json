@@ -3,6 +3,15 @@
         {
             "compiti": [
                 {
+                    "compito": "Svolgere TUTTI gli esercizi di pag. 43 (Assegnati per il 26/03/2018)",
+                    "materia": "LINGUA E LETTERATURA ITALIANA"
+                }
+            ],
+            "giorno": "2018-03-19"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "ES. pag.186 n. 47; pag. 185 n. 30-39;pag. 190n. 123-116; pag. 197 n. 221; pag.201 n. 253-250.",
                     "materia": "MATEMATICA"
                 }
@@ -29,7 +38,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
+                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -807,7 +816,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Argomenti verifica 1/12: disequazioni e sistemi di disequazioni; radicali ( da pag. 62 a 82); definizioni , condizioni di esistenza, propriet\u00e0 , semplificazioni, riduzione allo stesso indice, confronto tra radicali ed espressioni con radicali simili.",
+                    "compito": "Studiare  da pag. 77 a 82. Es. pag. 91 n. 97-99-101-103-112 + es. dettato sulle disequazioni.",
                     "materia": "MATEMATICA"
                 }
             ],
@@ -1539,5 +1548,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "19/03/2018 06:00:05"
+    "ultimo_aggiornamento": "19/03/2018 13:00:04"
 }
