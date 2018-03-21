@@ -5,6 +5,14 @@
                 {
                     "compito": "Domande da 1 a 8 relative al capitolo del libro \"Sui confini\" intitolato \"Serpenti a Idomeni\"",
                     "materia": "GEOGRAFIA"
+                },
+                {
+                    "compito": "Es. pag. 204 n. 306-307; pag. 203 n.282; pag. 209 n. 354; pag. 201 n. 252; pag. 209 n. 349.",
+                    "materia": "MATEMATICA"
+                },
+                {
+                    "compito": "Studiare da pag 78 a 79. Esercizi pag 87 dal 14 al 19",
+                    "materia": "SCIENZE INTEGRATE - SC. DELLA TERRA E BIOLOGIA"
                 }
             ],
             "giorno": "2018-03-21"
@@ -1566,5 +1574,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "21/03/2018 06:00:06"
+    "ultimo_aggiornamento": "21/03/2018 13:00:04"
 }
