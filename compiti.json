@@ -21,6 +21,15 @@
         {
             "compiti": [
                 {
+                    "compito": "FARE ESERCIZI PAG 87 DAL 14 AL 19.\nRIPETERE PER INTERROGAZIONI",
+                    "materia": "SCIENZE INTEGRATE - SC. DELLA TERRA E BIOLOGIA"
+                }
+            ],
+            "giorno": "2018-03-26"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Compito per tutti: elabora la descrizione del cardinale Borromeo, basandoti sulle informazioni dei cap. XXII e XXIII.\nRicerca su internet notizie in merito alla sua esistenza (Assegnati per il 07/04/2018)",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
@@ -869,7 +878,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Argomenti verifica 1/12: disequazioni e sistemi di disequazioni; radicali ( da pag. 62 a 82); definizioni , condizioni di esistenza, propriet\u00e0 , semplificazioni, riduzione allo stesso indice, confronto tra radicali ed espressioni con radicali simili.",
+                    "compito": "Studiare  da pag. 77 a 82. Es. pag. 91 n. 97-99-101-103-112 + es. dettato sulle disequazioni.",
                     "materia": "MATEMATICA"
                 }
             ],
@@ -1601,5 +1610,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "26/03/2018 06:00:10"
+    "ultimo_aggiornamento": "26/03/2018 13:00:12"
 }
