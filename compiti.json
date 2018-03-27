@@ -21,6 +21,15 @@
         {
             "compiti": [
                 {
+                    "compito": "1.51 1.52 1.53 1.54 pag 513-514",
+                    "materia": "ECONOMIA AZIENDALE"
+                }
+            ],
+            "giorno": "2018-03-27"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Studiare la Corte Costituzione ed il Pdr",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
@@ -39,6 +48,15 @@
                 }
             ],
             "giorno": "2018-03-24"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "Es.pag. 190 n. 119-139; pag. 209 n. 350; pag. 201 n. 250-255",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2018-03-23"
         },
         {
             "compiti": [
@@ -104,7 +122,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
+                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -882,7 +900,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Studiare  da pag. 77 a 82. Es. pag. 91 n. 97-99-101-103-112 + es. dettato sulle disequazioni.",
+                    "compito": "Argomenti verifica 1/12: disequazioni e sistemi di disequazioni; radicali ( da pag. 62 a 82); definizioni , condizioni di esistenza, propriet\u00e0 , semplificazioni, riduzione allo stesso indice, confronto tra radicali ed espressioni con radicali simili.",
                     "materia": "MATEMATICA"
                 }
             ],
@@ -1614,5 +1632,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "27/03/2018 06:00:08"
+    "ultimo_aggiornamento": "27/03/2018 13:00:06"
 }
