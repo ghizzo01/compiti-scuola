@@ -21,6 +21,10 @@
         {
             "compiti": [
                 {
+                    "compito": "Studiare la Corte Costituzione ed il Pdr",
+                    "materia": "DIRITTO ED ECONOMIA"
+                },
+                {
                     "compito": "FARE ESERCIZI PAG 87 DAL 14 AL 19.\nRIPETERE PER INTERROGAZIONI",
                     "materia": "SCIENZE INTEGRATE - SC. DELLA TERRA E BIOLOGIA"
                 }
@@ -100,7 +104,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
+                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -1610,5 +1614,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "26/03/2018 18:00:07"
+    "ultimo_aggiornamento": "27/03/2018 06:00:08"
 }
