@@ -21,6 +21,15 @@
         {
             "compiti": [
                 {
+                    "compito": "Compiti per le vacanze: pag. 201 n. 248-249-256; pag. 204 n. 297; pag. 209 n. 348; pag. 198 n. 226",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2018-03-28"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "1.51 1.52 1.53 1.54 pag 513-514",
                     "materia": "ECONOMIA AZIENDALE"
                 }
@@ -900,7 +909,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Argomenti verifica 1/12: disequazioni e sistemi di disequazioni; radicali ( da pag. 62 a 82); definizioni , condizioni di esistenza, propriet\u00e0 , semplificazioni, riduzione allo stesso indice, confronto tra radicali ed espressioni con radicali simili.",
+                    "compito": "Studiare  da pag. 77 a 82. Es. pag. 91 n. 97-99-101-103-112 + es. dettato sulle disequazioni.",
                     "materia": "MATEMATICA"
                 }
             ],
@@ -1632,5 +1641,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "28/03/2018 06:00:07"
+    "ultimo_aggiornamento": "28/03/2018 13:00:10"
 }
