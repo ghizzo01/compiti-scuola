@@ -12,6 +12,10 @@
         {
             "compiti": [
                 {
+                    "compito": "Studiare da pag. 53 a pag.57.",
+                    "materia": "DIRITTO ED ECONOMIA"
+                },
+                {
                     "compito": "Svolgere tutti gli esercizi di pag. 50.\nIndividuare le figure retoriche in \"Erano i capei d'oro\" (Assegnati per il 19/04/2018)",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 },
@@ -170,7 +174,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
+                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -1592,7 +1596,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Assegnato lavoro di ricerca sulla cartografia disponibile di alcuni elementi geografici (scheda distribuita); richiesta di indicare in forma scritta elementi utili (collocazione in prossimit\u00e0 di confini di stati o regioni amministrative) utili alla localizzazione. Fissate interrogazioni in forma orale fino a pagina 15 del libro di testo (Alpi escluse), argomenti svolti sul libro ed eventuali appunti / integrazioni, con correzione degli esercizi.",
+                    "compito": "Assegnato completamento dell'esercizio di localizzazione (sulla scheda gi\u00e0 distribuita). Ripasso in vista di possibili interrogazioni.",
                     "materia": "GEOGRAFIA"
                 },
                 {
@@ -1680,5 +1684,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "09/04/2018 13:00:11"
+    "ultimo_aggiornamento": "09/04/2018 15:00:10"
 }
