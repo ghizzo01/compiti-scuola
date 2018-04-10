@@ -35,6 +35,10 @@
                 {
                     "compito": "Svolgere compiti su Classroom (Assegnati per il 14/04/2018)",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
+                },
+                {
+                    "compito": "Es. pag. 245 n. 100-85; pag. 243 n. 68; pag. 248 n. 146-138-141",
+                    "materia": "MATEMATICA"
                 }
             ],
             "giorno": "2018-04-07"
@@ -174,7 +178,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
+                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -1596,7 +1600,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Assegnato completamento dell'esercizio di localizzazione (sulla scheda gi\u00e0 distribuita). Ripasso in vista di possibili interrogazioni.",
+                    "compito": "Assegnato lavoro di ricerca sulla cartografia disponibile di alcuni elementi geografici (scheda distribuita); richiesta di indicare in forma scritta elementi utili (collocazione in prossimit\u00e0 di confini di stati o regioni amministrative) utili alla localizzazione. Fissate interrogazioni in forma orale fino a pagina 15 del libro di testo (Alpi escluse), argomenti svolti sul libro ed eventuali appunti / integrazioni, con correzione degli esercizi.",
                     "materia": "GEOGRAFIA"
                 },
                 {
@@ -1684,5 +1688,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "10/04/2018 06:00:10"
+    "ultimo_aggiornamento": "10/04/2018 13:00:11"
 }
