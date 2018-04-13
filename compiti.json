@@ -12,6 +12,15 @@
         {
             "compiti": [
                 {
+                    "compito": "ES pag. 245 n. 93; pag. 250 n. 173-174; pag. 249 n. 160",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2018-04-13"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Es. pag. 245 n. 92; pag. 243 n. 69-70; pag. 246 n. 128; pag. 249 n. 159; pag. 250 n. 172",
                     "materia": "MATEMATICA"
                 },
@@ -200,7 +209,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
+                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -1710,5 +1719,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "13/04/2018 13:00:07"
+    "ultimo_aggiornamento": "13/04/2018 15:00:07"
 }
