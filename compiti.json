@@ -3,6 +3,15 @@
         {
             "compiti": [
                 {
+                    "compito": "Studiare le pagine del libro relative alla Cina Fisica (241 e 242). Studiare la scheda relativa alla popolazione cinese (e ripassare la politica del figlio unico, gi\u00e0 affrontata lo scorso anno).",
+                    "materia": "GEOGRAFIA"
+                }
+            ],
+            "giorno": "2018-04-18"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Ripassare gli Stati Uniti, possibili interrogazioni.",
                     "materia": "GEOGRAFIA"
                 },
@@ -213,7 +222,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
+                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -697,7 +706,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
+                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -1723,5 +1732,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "14/04/2018 13:00:06"
+    "ultimo_aggiornamento": "14/04/2018 15:00:06"
 }
