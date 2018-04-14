@@ -5,6 +5,10 @@
                 {
                     "compito": "Ripassare gli Stati Uniti, possibili interrogazioni.",
                     "materia": "GEOGRAFIA"
+                },
+                {
+                    "compito": "Es. pag. 250 n. 175-176-177; pag. 252 n.185; pag. 252 n. 190; pag. 248 n. 144; pag. 246 n. 130",
+                    "materia": "MATEMATICA"
                 }
             ],
             "giorno": "2018-04-14"
@@ -1631,7 +1635,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Assegnato completamento dell'esercizio di localizzazione (sulla scheda gi\u00e0 distribuita). Ripasso in vista di possibili interrogazioni.",
+                    "compito": "Assegnato lavoro di ricerca sulla cartografia disponibile di alcuni elementi geografici (scheda distribuita); richiesta di indicare in forma scritta elementi utili (collocazione in prossimit\u00e0 di confini di stati o regioni amministrative) utili alla localizzazione. Fissate interrogazioni in forma orale fino a pagina 15 del libro di testo (Alpi escluse), argomenti svolti sul libro ed eventuali appunti / integrazioni, con correzione degli esercizi.",
                     "materia": "GEOGRAFIA"
                 },
                 {
@@ -1719,5 +1723,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "14/04/2018 06:00:07"
+    "ultimo_aggiornamento": "14/04/2018 13:00:06"
 }
