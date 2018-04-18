@@ -5,6 +5,14 @@
                 {
                     "compito": "Studiare le pagine del libro relative alla Cina Fisica (241 e 242). Studiare la scheda relativa alla popolazione cinese (e ripassare la politica del figlio unico, gi\u00e0 affrontata lo scorso anno).",
                     "materia": "GEOGRAFIA"
+                },
+                {
+                    "compito": "1) Complete grammar worksheet. \n2.) Write a Tripadvisor-style review on your schooltrip to Venice: a)your trip b)tyour hotel; c)your visits d) your food.",
+                    "materia": "LINGUA  INGLESE"
+                },
+                {
+                    "compito": "Es. pag. 252 n.196; pag.246 n.126; pag. 242 n. 58; pag. 251 n. 178",
+                    "materia": "MATEMATICA"
                 }
             ],
             "giorno": "2018-04-18"
@@ -222,7 +230,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
+                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -706,7 +714,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
+                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -1644,7 +1652,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Assegnato completamento dell'esercizio di localizzazione (sulla scheda gi\u00e0 distribuita). Ripasso in vista di possibili interrogazioni.",
+                    "compito": "Assegnato lavoro di ricerca sulla cartografia disponibile di alcuni elementi geografici (scheda distribuita); richiesta di indicare in forma scritta elementi utili (collocazione in prossimit\u00e0 di confini di stati o regioni amministrative) utili alla localizzazione. Fissate interrogazioni in forma orale fino a pagina 15 del libro di testo (Alpi escluse), argomenti svolti sul libro ed eventuali appunti / integrazioni, con correzione degli esercizi.",
                     "materia": "GEOGRAFIA"
                 },
                 {
@@ -1732,5 +1740,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "18/04/2018 06:00:11"
+    "ultimo_aggiornamento": "18/04/2018 13:00:12"
 }
