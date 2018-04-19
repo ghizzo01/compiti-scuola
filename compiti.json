@@ -3,6 +3,15 @@
         {
             "compiti": [
                 {
+                    "compito": "studiare tutta la Magistratura.",
+                    "materia": "DIRITTO ED ECONOMIA"
+                }
+            ],
+            "giorno": "2018-04-19"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Studiare le pagine del libro relative alla Cina Fisica (241 e 242). Studiare la scheda relativa alla popolazione cinese (e ripassare la politica del figlio unico, gi\u00e0 affrontata lo scorso anno).",
                     "materia": "GEOGRAFIA"
                 },
@@ -230,7 +239,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
+                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -1008,7 +1017,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Argomenti verifica 1/12: disequazioni e sistemi di disequazioni; radicali ( da pag. 62 a 82); definizioni , condizioni di esistenza, propriet\u00e0 , semplificazioni, riduzione allo stesso indice, confronto tra radicali ed espressioni con radicali simili.",
+                    "compito": "Studiare  da pag. 77 a 82. Es. pag. 91 n. 97-99-101-103-112 + es. dettato sulle disequazioni.",
                     "materia": "MATEMATICA"
                 }
             ],
@@ -1740,5 +1749,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "19/04/2018 06:00:11"
+    "ultimo_aggiornamento": "19/04/2018 13:00:09"
 }
