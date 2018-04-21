@@ -3,6 +3,15 @@
         {
             "compiti": [
                 {
+                    "compito": "Per casa compito sulla fine del cap. 25 e inizio cap. 26 (conversazione fra don Abbondio e il cardinale Federigo Borromeo) (Assegnati per il 28/04/2018)",
+                    "materia": "LINGUA E LETTERATURA ITALIANA"
+                }
+            ],
+            "giorno": "2018-04-21"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "2.2 2.3 2.6 2.7 pag 514-515",
                     "materia": "ECONOMIA AZIENDALE"
                 },
@@ -736,7 +745,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
+                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -1762,5 +1771,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "21/04/2018 06:00:10"
+    "ultimo_aggiornamento": "21/04/2018 13:00:11"
 }
