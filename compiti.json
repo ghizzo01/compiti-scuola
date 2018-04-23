@@ -3,6 +3,15 @@
         {
             "compiti": [
                 {
+                    "compito": "svolgere le attivit\u00e0 di pag. 52-53-54 (es. da 1 a 10).\nStudiare tutto  (Assegnati per il 30/04/2018)",
+                    "materia": "LINGUA E LETTERATURA ITALIANA"
+                }
+            ],
+            "giorno": "2018-04-23"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Per casa compito sulla fine del cap. 25 e inizio cap. 26 (conversazione fra don Abbondio e il cardinale Federigo Borromeo) (Assegnati per il 28/04/2018)",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 },
@@ -265,7 +274,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
+                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -1775,5 +1784,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "23/04/2018 06:00:12"
+    "ultimo_aggiornamento": "23/04/2018 13:00:12"
 }
