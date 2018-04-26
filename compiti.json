@@ -3,6 +3,15 @@
         {
             "compiti": [
                 {
+                    "compito": "es. pag. 171 - 172 (Assegnati per il 08/05/2018)",
+                    "materia": "STORIA"
+                }
+            ],
+            "giorno": "2018-04-26"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Revise units 8+9. \nBRING SMARTGRAMMAR!",
                     "materia": "LINGUA  INGLESE"
                 },
@@ -287,7 +296,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
+                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -1797,5 +1806,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "26/04/2018 13:00:12"
+    "ultimo_aggiornamento": "26/04/2018 15:00:13"
 }
