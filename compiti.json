@@ -3,6 +3,24 @@
         {
             "compiti": [
                 {
+                    "compito": "Ricominciano le interrogazioni",
+                    "materia": "GEOGRAFIA"
+                }
+            ],
+            "giorno": "2018-05-05"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "Studiare pagina 244 - 245 (le due sezioni \"ingrandimento\" relative alle minoranze etniche in Cina). Studiare la sezione relativa alle \"Comuni popolari\" della scheda distribuita in classe.",
+                    "materia": "GEOGRAFIA"
+                }
+            ],
+            "giorno": "2018-05-02"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "scheda da completare",
                     "materia": "ECONOMIA AZIENDALE"
                 },
@@ -309,7 +327,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
+                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -1731,7 +1749,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Assegnato lavoro di ricerca sulla cartografia disponibile di alcuni elementi geografici (scheda distribuita); richiesta di indicare in forma scritta elementi utili (collocazione in prossimit\u00e0 di confini di stati o regioni amministrative) utili alla localizzazione. Fissate interrogazioni in forma orale fino a pagina 15 del libro di testo (Alpi escluse), argomenti svolti sul libro ed eventuali appunti / integrazioni, con correzione degli esercizi.",
+                    "compito": "Assegnato completamento dell'esercizio di localizzazione (sulla scheda gi\u00e0 distribuita). Ripasso in vista di possibili interrogazioni.",
                     "materia": "GEOGRAFIA"
                 },
                 {
@@ -1819,5 +1837,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "28/04/2018 13:00:12"
+    "ultimo_aggiornamento": "28/04/2018 15:00:11"
 }
