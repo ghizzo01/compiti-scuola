@@ -327,7 +327,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
+                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -1837,5 +1837,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "28/04/2018 18:00:10"
+    "ultimo_aggiornamento": "29/04/2018 06:00:12"
 }
