@@ -3,10 +3,6 @@
         {
             "compiti": [
                 {
-                    "compito": "Ricominciano le interrogazioni",
-                    "materia": "GEOGRAFIA"
-                },
-                {
                     "compito": "Terminare la lettura del cap. 31",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
@@ -352,7 +348,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
+                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -1862,5 +1858,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "05/05/2018 13:00:08"
+    "ultimo_aggiornamento": "05/05/2018 15:00:06"
 }
