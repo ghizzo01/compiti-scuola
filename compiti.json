@@ -3,6 +3,19 @@
         {
             "compiti": [
                 {
+                    "compito": "Revise Passive form. Watch the video again ad read thescript on garyturk.com \nWrite your reaction to it.",
+                    "materia": "LINGUA  INGLESE"
+                },
+                {
+                    "compito": "Es. pag. 45 n. 18; pag. 50 n. 64; vol. 1 pag. 602 n. 92; pag. 203 n. 278; pag. 266 n. 45; pag. 306 n. 141- 134; pag. 310 n. 187",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2018-05-09"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Studiare pag. 118-122.\nSvolgere esercitazione su classroom (Assegnati per il 10/05/2018)",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
@@ -1779,7 +1792,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Assegnato lavoro di ricerca sulla cartografia disponibile di alcuni elementi geografici (scheda distribuita); richiesta di indicare in forma scritta elementi utili (collocazione in prossimit\u00e0 di confini di stati o regioni amministrative) utili alla localizzazione. Fissate interrogazioni in forma orale fino a pagina 15 del libro di testo (Alpi escluse), argomenti svolti sul libro ed eventuali appunti / integrazioni, con correzione degli esercizi.",
+                    "compito": "Assegnato completamento dell'esercizio di localizzazione (sulla scheda gi\u00e0 distribuita). Ripasso in vista di possibili interrogazioni.",
                     "materia": "GEOGRAFIA"
                 },
                 {
@@ -1867,5 +1880,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "09/05/2018 06:00:08"
+    "ultimo_aggiornamento": "09/05/2018 13:00:10"
 }
