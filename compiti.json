@@ -12,6 +12,15 @@
         {
             "compiti": [
                 {
+                    "compito": "Es. pag. 304 n. 74; pag. 305 n. 90; pag. 308 n. 180; pag. 311 n. 194",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2018-05-12"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Es. pag. 50 n. 60; pag. 45 n. 22; pag. 264 n. 20; pag. 305 n. 135; VOL 1 pag. 602 n. 96",
                     "materia": "MATEMATICA"
                 }
@@ -1907,5 +1916,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "13/05/2018 06:00:08"
+    "ultimo_aggiornamento": "13/05/2018 13:00:11"
 }
