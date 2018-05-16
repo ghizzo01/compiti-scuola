@@ -3,6 +3,23 @@
         {
             "compiti": [
                 {
+                    "compito": "Smart Grammar:p. 373 ex 1+2. Pag. 376 n. 1,2,3.",
+                    "materia": "LINGUA  INGLESE"
+                },
+                {
+                    "compito": "Es pag. 304 n. 42-55-62-80-83; pag. 306 n. 138-147; pag. 308 n. 181-183; pag. 311 n. 200-195; pag. 314 n. 237-240",
+                    "materia": "MATEMATICA"
+                },
+                {
+                    "compito": "Studiare schema dato,confrontare con libro pagina 126,128,129,130. (Assegnati per il 21/05/2018)",
+                    "materia": "SCIENZE INTEGRATE - SC. DELLA TERRA E BIOLOGIA"
+                }
+            ],
+            "giorno": "2018-05-16"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "2.25 2.47 2.28",
                     "materia": "ECONOMIA AZIENDALE"
                 },
@@ -907,7 +924,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
+                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -1933,5 +1950,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "16/05/2018 06:00:08"
+    "ultimo_aggiornamento": "16/05/2018 13:00:09"
 }
