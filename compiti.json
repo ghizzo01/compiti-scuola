@@ -12,6 +12,15 @@
         {
             "compiti": [
                 {
+                    "compito": "Studiareschema dato, confrontare con libro pagina 131,132,133, per verifica studiare anche schemi precedenti + libro pagina 126,128,129,130 (Assegnati per il 23/05/2018)",
+                    "materia": "SCIENZE INTEGRATE - SC. DELLA TERRA E BIOLOGIA"
+                }
+            ],
+            "giorno": "2018-05-21"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Es. pag. 277 n. 129; pag. 305 n. 100-87-112; pag. 304 n. 73; pag. 308 n. 174; pag. 311 n. 204; pag. 318 n. 279",
                     "materia": "MATEMATICA"
                 }
@@ -951,7 +960,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
+                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -1977,5 +1986,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "21/05/2018 06:00:11"
+    "ultimo_aggiornamento": "21/05/2018 13:00:11"
 }
