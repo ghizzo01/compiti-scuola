@@ -3,6 +3,15 @@
         {
             "compiti": [
                 {
+                    "compito": "Terminare le domande relative alla parte sul Medio Oriente",
+                    "materia": "GEOGRAFIA"
+                }
+            ],
+            "giorno": "2018-05-23"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Terminare le domande relative alla parte su Israele",
                     "materia": "GEOGRAFIA"
                 }
@@ -476,7 +485,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
+                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -1986,5 +1995,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "22/05/2018 06:00:11"
+    "ultimo_aggiornamento": "22/05/2018 13:00:11"
 }
