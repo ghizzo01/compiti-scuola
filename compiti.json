@@ -5,6 +5,10 @@
                 {
                     "compito": "Terminare le domande relative alla parte sul Medio Oriente",
                     "materia": "GEOGRAFIA"
+                },
+                {
+                    "compito": "Studiare programma svolto per interrogazioni orali (Assegnati per il 28/05/2018)",
+                    "materia": "SCIENZE INTEGRATE - SC. DELLA TERRA E BIOLOGIA"
                 }
             ],
             "giorno": "2018-05-23"
@@ -485,7 +489,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
+                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -969,7 +973,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
+                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -1995,5 +1999,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "23/05/2018 06:00:12"
+    "ultimo_aggiornamento": "23/05/2018 13:00:12"
 }
