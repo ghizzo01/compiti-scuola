@@ -3,6 +3,15 @@
         {
             "compiti": [
                 {
+                    "compito": "Es. di ripasso per la verifica: pag. 305 n. 128-111; pag. 308 n. 180; pag. 311 n. 198-199; pag. 315 n. 242; pag. 318 n. 280; pag. 274 n. 102; pag. 264 n. 22; pag. 316 n. 250-257",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2018-05-26"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "consegna e correzione verifiche",
                     "materia": "ECONOMIA AZIENDALE"
                 }
@@ -502,7 +511,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
+                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -2012,5 +2021,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "29/05/2018 06:00:10"
+    "ultimo_aggiornamento": "29/05/2018 13:00:12"
 }
