@@ -3,6 +3,15 @@
         {
             "compiti": [
                 {
+                    "compito": "Compiti per le vacanze: Studiare e riassumere sul quaderno : Il mercato della moneta - da pag. 134 a pag. 141 del libro di testo",
+                    "materia": "DIRITTO ED ECONOMIA"
+                }
+            ],
+            "giorno": "2018-05-31"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Leggere pagina 144,148. (Assegnati per il 04/06/2018)",
                     "materia": "SCIENZE INTEGRATE - SC. DELLA TERRA E BIOLOGIA"
                 }
@@ -1004,7 +1013,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Promessi Sposi cap. 12. Terminare lettura. Per sabato: articolo di giornale/intevista",
+                    "compito": "Per gioved\u00ec svolgere l'analisi logica delle frasi assegnate",
                     "materia": "LINGUA E LETTERATURA ITALIANA"
                 }
             ],
@@ -1942,7 +1951,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Assegnato lavoro di ricerca sulla cartografia disponibile di alcuni elementi geografici (scheda distribuita); richiesta di indicare in forma scritta elementi utili (collocazione in prossimit\u00e0 di confini di stati o regioni amministrative) utili alla localizzazione. Fissate interrogazioni in forma orale fino a pagina 15 del libro di testo (Alpi escluse), argomenti svolti sul libro ed eventuali appunti / integrazioni, con correzione degli esercizi.",
+                    "compito": "Assegnato completamento dell'esercizio di localizzazione (sulla scheda gi\u00e0 distribuita). Ripasso in vista di possibili interrogazioni.",
                     "materia": "GEOGRAFIA"
                 },
                 {
@@ -2030,5 +2039,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "31/05/2018 06:00:12"
+    "ultimo_aggiornamento": "31/05/2018 13:00:17"
 }
