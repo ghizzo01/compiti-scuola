@@ -3,6 +3,15 @@
         {
             "compiti": [
                 {
+                    "compito": "COMPITI PER LE VACANZE DI MATEMATICA :  es. pag. 45 n. 14-19; pag. 50 n. 54-55-56;  da pag. 185 in avanti n. 41-42-106-108-111-140-269-272-281-284-287-300-311; \nda pag. 302 in avanti n. 5-7-8-10-18-19-26-29-47-59-60-93-113-116-140-142-173-182-191-193-203-217-225-238-241-244-245-253-273-278",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2018-06-06"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Compiti per le vacanze: Studiare e riassumere sul quaderno : Il mercato della moneta - da pag. 134 a pag. 141 del libro di testo",
                     "materia": "DIRITTO ED ECONOMIA"
                 }
@@ -529,7 +538,7 @@
         {
             "compiti": [
                 {
-                    "compito": "Indica chi sono i membri attuali della Corte Costituzionale",
+                    "compito": "Ricerca e trascrivi sul quaderno gli attuali membri della Corte Costituzionale.",
                     "materia": "DIRITTO ED ECONOMIA"
                 },
                 {
@@ -2039,5 +2048,5 @@
             "giorno": "2017-09-15"
         }
     ],
-    "ultimo_aggiornamento": "07/06/2018 06:00:07"
+    "ultimo_aggiornamento": "07/06/2018 13:00:09"
 }
