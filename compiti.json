@@ -3,6 +3,220 @@
         {
             "compiti": [
                 {
+                    "compito": "interrogazioni",
+                    "materia": "DIRITTO"
+                }
+            ],
+            "giorno": "2019-05-10"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "portare esercizi dal 52 al 62,rifare 61bis e 57bis con il blocco celle e l'uso del riferimento alla cella per criterio (Assegnati per il 13/05/2019)",
+                    "materia": "INFORMATICA"
+                }
+            ],
+            "giorno": "2019-05-09"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "Complete Insight SB ex 6 p. 36 (verb patterns).  Word bank p. 136, Objects in a museum, ex 1+2. Insight WB p. 23 ALL exercises.",
+                    "materia": "LINGUA  INGLESE"
+                },
+                {
+                    "compito": "Esercizi pag. 459 dal n.98 al n.103 es. pag. 464 n. 189 dal n.192 al n. 206 (Assegnati per il 11/05/2019)",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2019-05-08"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "Reading p. 36/ ex 37 ex 1+2",
+                    "materia": "LINGUA  INGLESE"
+                },
+                {
+                    "compito": "pag. 365-366 approfondimento n. 5 + domande (Assegnati per il 09/05/2019)",
+                    "materia": "STORIA"
+                }
+            ],
+            "giorno": "2019-05-07"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "assemblea di classe",
+                    "materia": "DIRITTO"
+                },
+                {
+                    "compito": "es 57bis finire es 60 (Assegnati per il 09/05/2019)",
+                    "materia": "INFORMATICA"
+                },
+                {
+                    "compito": "Esercizi per casa (Assegnati per il 11/05/2019)",
+                    "materia": "LINGUA E LETTERATURA ITALIANA"
+                },
+                {
+                    "compito": "Esercizi pag. 460 dal n. 117 al n. 141 (Assegnati per il 08/05/2019)",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2019-05-06"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "produzione prova scritta ambito storico (Assegnati per il 20/05/2019)",
+                    "materia": "LINGUA E LETTERATURA ITALIANA"
+                },
+                {
+                    "compito": "Esercizi pag. 425 dal n.369 al n. 397 (numeri dispari). Es. pag. 426 n. 419-420-423-424-425-426. Es. pag. 453 n.1-2-3-4 (Assegnati per il 06/05/2019)",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2019-05-04"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "Watch the video online: https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy?language=en",
+                    "materia": "LINGUA  INGLESE"
+                }
+            ],
+            "giorno": "2019-05-03"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "es 65,66,67 (Assegnati per il 06/05/2019)",
+                    "materia": "INFORMATICA"
+                }
+            ],
+            "giorno": "2019-05-02"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "per casa quadratura dell'es 52",
+                    "materia": "ECONOMIA AZIENDALE"
+                },
+                {
+                    "compito": "leggere scheda dialogo immaginario Boccaccio e Petrarca (Assegnati per il 04/05/2019)",
+                    "materia": "LINGUA E LETTERATURA ITALIANA"
+                },
+                {
+                    "compito": "Esercizi pag. 426 dal n. 412 al n. 417 Esercizi pag. 427 dal n.427 al n.435 pag. 432 \"Prova di Autoverifica\".\nLeggere e riassumere Cap.9 da pag. 433 a pag. 436. Ricopiare sul quaderno \"SINTESI\" pag. 452.\nPortare Libro di Testo del Secondo Anno. (Assegnati per il 04/05/2019)",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2019-04-29"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "Vocab bank 3  p 136 SB. Ex 1,2,3.",
+                    "materia": "LINGUA  INGLESE"
+                }
+            ],
+            "giorno": "2019-04-26"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "Esercizi in preparazione alla Verifica: pag. 424 n.354-356-353 (vedi n.352-359 risolti in Classe). Esercizi pag. 425  dal n. 368 al n. 396 (i numeri pari). Es. n. 407 (esempio svolto). Es. n. 411-421-422. Es. pag. 430 dal n. 520 al n. 530 (i numeri dispari). Prova di Autoverifica pag. 432 (Assegnati per il 27/04/2019)",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2019-04-17"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "Insight WB ex 5 p. 30 written. Ex p. 32 n. 6,7,8,9,10. Workbook p. 20 ex 1,2,3,4. Use your head and the wordlist on p. 130 WB. \nHappy Easter to you and your families!",
+                    "materia": "LINGUA  INGLESE"
+                }
+            ],
+            "giorno": "2019-04-16"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "Es 61,62 Es 63,64,65,66 (Assegnati per il 29/04/2019)",
+                    "materia": "INFORMATICA"
+                },
+                {
+                    "compito": "Esercizi pag. 421 dal n.283 al n. 291: Esercizi pag. 423 dal n. 323 al n. 328 (finire n.328 iniziato in Classe).Esercizi pag. 424 n. 347-349-351.Esercizi pag. 425 n. 398-401-403-404.Provare ad interpretare esercizio pag. 424  n. 352 (ragionare su come poterlo risolvere).Esercizio pag. 431 n.531 (Matematica ed Econimia) (Assegnati per il 17/04/2019)",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2019-04-15"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "Esercizi pag. 420 dal n. 238 al n.247; pag. 421 n. 272-276-278-282\nStudiare da pag.403 a pag. 407.Riassunto scritto delle pag. 406-407  (Assegnati per il 15/04/2019)",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2019-04-13"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "es 52 pag 627",
+                    "materia": "ECONOMIA AZIENDALE"
+                },
+                {
+                    "compito": "Es 57-59 (Assegnati per il 15/04/2019)",
+                    "materia": "INFORMATICA"
+                }
+            ],
+            "giorno": "2019-04-11"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "es 45 e 48 pag 622  e 624",
+                    "materia": "ECONOMIA AZIENDALE"
+                },
+                {
+                    "compito": "Insight  SB p. 29 Reading ex 4,5.  Read the articles and watch the videos Sent on WA.",
+                    "materia": "LINGUA  INGLESE"
+                }
+            ],
+            "giorno": "2019-04-10"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "Ripassare tutto Petrarca. Leggere la lettere \"Ai posteri\" (in fotocopia) (Assegnati per il 27/04/2019)",
+                    "materia": "STORIA"
+                }
+            ],
+            "giorno": "2019-04-09"
+        },
+        {
+            "compiti": [
+                {
+                    "compito": "es 38 e 39 pag 619",
+                    "materia": "ECONOMIA AZIENDALE"
+                },
+                {
+                    "compito": "es 57 (Assegnati per il 11/04/2019)",
+                    "materia": "INFORMATICA"
+                },
+                {
+                    "compito": "Esercizi pag.416 dal n.104 al n.116; Esercizi pag.417 dal n. 142 al n. 148; pag. 420 n.251-251 (Assegnati per il 10/04/2019)",
+                    "materia": "MATEMATICA"
+                }
+            ],
+            "giorno": "2019-04-08"
+        },
+        {
+            "compiti": [
+                {
                     "compito": "Esercizi assegnati per oggi sulle Coniche.Esercizi pag. 409 dal m. 9 al n. 57",
                     "materia": "MATEMATICA"
                 }
@@ -686,7 +900,7 @@
         {
             "compiti": [
                 {
-                    "compito": "esercizi sulle variazioni",
+                    "compito": "es 43 pag 537",
                     "materia": "ECONOMIA AZIENDALE"
                 },
                 {
@@ -1060,5 +1274,5 @@
             "giorno": "2018-09-19"
         }
     ],
-    "ultimo_aggiornamento": "29/03/2019 15:44:17"
+    "ultimo_aggiornamento": "10/05/2019 17:38:21"
 }
